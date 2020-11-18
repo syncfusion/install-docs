@@ -1,4 +1,4 @@
-# Syncfusion Install Documentation
+# Syncfusion Install And Configuration Documentation
 
 This is the GitHub repository for the technical product documentation for Syncfusion Install and Configuration components. This documentation is published to http://help.syncfusion.com/common 
 
